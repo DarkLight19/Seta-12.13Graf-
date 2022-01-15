@@ -1,0 +1,7 @@
+F:\---------IMI------\------INFÓ------\-----------HÁÁÁZII\HargitaBence1213Gráf\HargitaBence1213Gráf\bin\Debug\HargitaBence1213Gráf.exe.config
+F:\---------IMI------\------INFÓ------\-----------HÁÁÁZII\HargitaBence1213Gráf\HargitaBence1213Gráf\bin\Debug\HargitaBence1213Gráf.exe
+F:\---------IMI------\------INFÓ------\-----------HÁÁÁZII\HargitaBence1213Gráf\HargitaBence1213Gráf\bin\Debug\HargitaBence1213Gráf.pdb
+F:\---------IMI------\------INFÓ------\-----------HÁÁÁZII\HargitaBence1213Gráf\HargitaBence1213Gráf\obj\Debug\HargitaBence1213Gráf.csproj.AssemblyReference.cache
+F:\---------IMI------\------INFÓ------\-----------HÁÁÁZII\HargitaBence1213Gráf\HargitaBence1213Gráf\obj\Debug\HargitaBence1213Gráf.csproj.CoreCompileInputs.cache
+F:\---------IMI------\------INFÓ------\-----------HÁÁÁZII\HargitaBence1213Gráf\HargitaBence1213Gráf\obj\Debug\HargitaBence1213Gráf.exe
+F:\---------IMI------\------INFÓ------\-----------HÁÁÁZII\HargitaBence1213Gráf\HargitaBence1213Gráf\obj\Debug\HargitaBence1213Gráf.pdb
